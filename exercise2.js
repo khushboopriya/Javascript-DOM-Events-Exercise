@@ -1,6 +1,6 @@
 window.addEventListener('load', () => {
 
-    const input=document.querySelector('#some-input');
+    const input=document.querySelector('#input-data');
 
     const buttonMinus = document.querySelector('#button-minus');
     buttonMinus.addEventListener('click', event => {
